@@ -19,6 +19,7 @@ M. Zhang, G. Guo, S. Magnússon, R. C. N. Pilawa-Podgurski and Q. Xu*, "Data Dri
 
 
 Other relevant works: 
+
 G. Guo, M. Zhang, Y. Gong, Q. Xu*, Safe multi-agent deep reinforcement learning for real-time decentralized control of inverter based renewable energy resources considering communication delay, Applied Energy, 2023, Volume 349, 2023  https://www.sciencedirect.com/science/article/pii/S0306261923010127
 
 
