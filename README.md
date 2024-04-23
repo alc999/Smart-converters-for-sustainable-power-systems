@@ -20,9 +20,10 @@ M. Zhang, G. Guo, S. Magnússon, R. C. N. Pilawa-Podgurski and Q. Xu*, "Data Dri
 
 Other relevant works: 
 
+M. Zhang, G. Guo, T. Zhao, Q. Xu*, DNN Assisted Projection based Deep Reinforcement Learning for Safe Control of Distribution Grids, in IEEE Transactions on Power Systems, 2023, doi: 10.1109/TPWRS.2023.3336614
+https://ieeexplore.ieee.org/abstract/document/10334044
+
 G. Guo, M. Zhang, Y. Gong, Q. Xu*, Safe multi-agent deep reinforcement learning for real-time decentralized control of inverter based renewable energy resources considering communication delay, Applied Energy, 2023, Volume 349, 2023  https://www.sciencedirect.com/science/article/pii/S0306261923010127
 
 
-M. Zhang, G. Guo, T. Zhao, Q. Xu*, DNN Assisted Projection based Deep Reinforcement Learning for Safe Control of Distribution Grids, in IEEE Transactions on Power Systems, 2023, doi: 10.1109/TPWRS.2023.3336614
-https://ieeexplore.ieee.org/abstract/document/10334044
  
